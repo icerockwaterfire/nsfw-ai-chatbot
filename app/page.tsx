@@ -1,3 +1,8 @@
+'use client';
+import './globals.css';
+import React, { useState, useEffect } from 'react';
+
+// ... rest of your code
 import './globals.css'
 import React, { useState, useEffect } from 'react';
 
